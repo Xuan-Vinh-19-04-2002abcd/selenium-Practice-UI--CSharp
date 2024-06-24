@@ -1,0 +1,22 @@
+﻿{
+  "Projects": [
+    {
+      "ProjectName": "ProjectTMS 20118",
+      "ProjectType": "Fixed Price",
+      "StartDate": "15-May-2000",
+      "ProjectStatus": "Cancelled",
+      "EndDate": "24-May-2024",
+      "SizeDay": "30",
+      "Location": "Onshore Belgium London",
+      "ProjectManager": "Ty Ngo (pm_ty)",
+      "DeliveryManager": "SM SM (SM)",
+      "EngagementManager": "Anh SM (AnhPLPSM)",
+      "ShortDescription": "Short description",
+      "LongDescription": "Long description",
+      "Technology": "C#, .NET",
+      "ClientName": "Client Name 1",
+      "ClientDescription": "Client description 1",
+      "ClientIndustry": "Manufacturing"
+    }
+  ]
+}
